@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1652482312 source:m:\w2k\project 2\project2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<string>
+	"ReadCSVFile.h"
+	"TriPath.h"
+	"TriModel.h"
+	"PathDependentOptions.h"
+
+1652481884 m:\w2k\project 2\project2\readcsvfile.h
+	<vector>
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+
+1652480855 m:\w2k\project 2\project2\tripath.h
+	<vector>
+	<cmath>
+	"TriModel.h"
+	"ReadCSVFile.h"
+
+1652480848 m:\w2k\project 2\project2\trimodel.h
+	<cmath>
+
+1652482616 m:\w2k\project 2\project2\pathdependentoptions.h
+	"TriPath.h"
+
+1652482453 source:m:\w2k\project 2\project2\pathdependentoptions.cpp
+	<cmath>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<iomanip>
+	"ReadCSVFile.h"
+	"PathDependentOptions.h"
+	"TriPath.h"
+
+1652464766 source:m:\w2k\project 2\project2\trimodel.cpp
+	"TriModel.h"
+	<cmath>
+
+1652456270 source:m:\w2k\project 2\project2\tripath.cpp
+	"TriModel.h"
+	"TriPath.h"
+	<iostream>
+	<cmath>
+	<vector>
+
+1652456493 source:m:\w2k\project 2\project2\readcsvfile.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<iomanip>
+	"ReadCSVFile.h"
+
